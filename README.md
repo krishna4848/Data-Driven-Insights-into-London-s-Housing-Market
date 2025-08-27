@@ -1,2 +1,2 @@
 # Real_estate_analysis
-Applying machine learning to help understand real estate scenario in London, UK
+This project analyzes London housing property prices and crime data to explore trends in affordability, growth, and safety across boroughs. By combining housing and crime datasets, the analysis identifies which areas are becoming more or less affordable, how property values have evolved over time, and whether crime rates influence housing demand. The project demonstrates data cleaning, exploratory analysis, visualization, and regression techniques to uncover actionable insights for policymakers, investors, and urban planners.
